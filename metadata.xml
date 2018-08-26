@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Fortuna</dc:title>
+      <dc:creator>Alexander Lange Kielland (1849–1906)</dc:creator>
+      <dc:creator>Margaretha Meijboom (1856–1927)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2010-07-31</dc:publisher>
+      <dc:date>2010-07-31</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+Oorspronkelijke Noorse titel: Fortuna, voor het eerst verschenen in 1884. Vervolg op Vergif.
+</dc:rights>
+      <dc:subject>Vertalingen (vorm)</dc:subject>
+      <dc:subject>Romans (teksten)</dc:subject>
+      <dc:description>Oorspronkelijke Noorse titel: Fortuna, voor het eerst verschenen in 1884. Vervolg op Vergif.</dc:description>
+      <dc:identifier>pg:33308</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
